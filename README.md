@@ -4,7 +4,6 @@
 🎓 &nbsp;I'm currently pursuing my Master of Science in Computer Science at Indiana University – Bloomington.  
 🌱 &nbsp;I'm diving deep into Cloud Architecture, Distributed Systems, and Large Language Models (LLMs)  
 💬 &nbsp;Let's chat about tech, collaboration opportunities, or even challenge each other in a game of chess!  
-✉️ &nbsp;You can drop me an email at [gajulapallyajay@gmail.com](mailto:gajulapallyajay@gmail.com) – I'll get back to you soon.
 
 ### 🛠 &nbsp;Tech Stack
 
