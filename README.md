@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Ajay Reddy Gajulapally
 
-💡 &nbsp;Software Developer | Full Stack Developer | Problem Solving Enthusiastic.  
+💡 &nbsp;Software Developer | Full Stack Developer | Problem Solving Enthusiastic  
 🎓 &nbsp;I'm currently pursuing my Master of Science in Computer Science at Indiana University – Bloomington.  
 🌱 &nbsp;I'm diving deep into Cloud Architecture, Distributed Systems, and Large Language Models (LLMs)  
 💬 &nbsp;Let's chat about tech, collaboration opportunities, or even challenge each other in a game of chess!  
