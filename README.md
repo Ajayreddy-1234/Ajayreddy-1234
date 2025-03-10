@@ -3,7 +3,14 @@
 💡 &nbsp;Software Developer | Full Stack Developer | Problem Solving Enthusiastic  
 🎓 &nbsp;I'm currently pursuing my Master of Science in Computer Science at Indiana University – Bloomington.  
 🌱 &nbsp;I'm diving deep into Cloud Architecture, Distributed Systems, and Large Language Models (LLMs)  
-💬 &nbsp;Let's chat about tech, collaboration opportunities, or even challenge each other in a game of chess!  
+💬 &nbsp;Let's chat about tech, collaboration opportunities, or even challenge each other in a game of chess!
+
+### 🎓 Certifications
+
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-6A1B9A?style=flat&logo=amazon-aws&labelColor=333333)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1919c1a5d6614977b971198bf01aa4b1)&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/Spyder_ab)&nbsp;&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-FC5C02?style=flat&logo=codeforces&logoColor=white&labelColor=FC5C02)](https://codeforces.com/profile/Hey1234_1234)&nbsp;&nbsp;
+[![LeetCode Achiever](https://img.shields.io/badge/LeetCode-Achiever-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Spyder_ab/)
 
 ### 🛠 &nbsp;Tech Stack
 
